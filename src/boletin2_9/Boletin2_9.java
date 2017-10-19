@@ -16,7 +16,7 @@ public class Boletin2_9 {
         b20=total%100/20;
         b5=total%100%20/5;
         m1=total%100%20%5/1;
-        System.out.println(b100+" billetes de 100€ "+b20+" billetes de 20€ "+b5+" billetes de 5€ "+m1+" monedas de 1€");
+        System.out.println(b100+" billetes de cien "+b20+" billetes de veinte "+b5+" billetes de cinco "+m1+" monedas de 1€");
         
 
     }
